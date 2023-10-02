@@ -1,0 +1,30 @@
+/* MENU SUPERIOR */
+.container {
+    /* COR DE FUNDO */
+    background-color: #FFEFF6;
+    /* ALTURA */
+    height: 60px;
+    display: block;
+}
+
+/* TITULO */
+.title-header {
+    /* POSIÇÃO EM RELAÇÃO A PAGINA */
+    position: absolute;
+    /* MARGEM DA ESQUERDA */
+    margin-left: 80%;
+    /* MARGEM DO TOPO*/
+    margin-top: 16px;
+    /* COR DA FONTE */
+    color: #B00A4F;
+    /* TAMANHO FONTE */
+    font-size: 22px;
+}
+
+
+
+
+
+
+
+ 
